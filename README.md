@@ -12,12 +12,16 @@ https://github.com/brillout/awesome-react-components
 https://github.com/jondot/awesome-react-native
 
 
+## Vue
+https://github.com/vuejs/awesome-vue
+
 ## Styled Components
 https://github.com/styled-components/awesome-styled-components
 
 
 ## Shell
 https://github.com/alebcay/awesome-shell
+
 
 ## AI
 #### Deep Learning
