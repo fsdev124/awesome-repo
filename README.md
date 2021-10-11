@@ -18,3 +18,6 @@ https://github.com/styled-components/awesome-styled-components
 
 ## Shell
 https://github.com/alebcay/awesome-shell
+
+## Deep Learning
+https://github.com/ChristosChristofidis/awesome-deep-learning
