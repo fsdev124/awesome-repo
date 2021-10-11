@@ -1,16 +1,20 @@
-#This is a repo for all awesome code
+# This is a repo for all awesome code
 
 
 ## React
-####Redux
+#### Redux
 https://github.com/xgrommx/awesome-redux
-####react
+#### react
 https://github.com/enaqx/awesome-react
-####react-components
+#### react-components
 https://github.com/brillout/awesome-react-components
-####react-native
+#### react-native
 https://github.com/jondot/awesome-react-native
 
 
-##Styled Components
+## Styled Components
 https://github.com/styled-components/awesome-styled-components
+
+
+## Shell
+https://github.com/alebcay/awesome-shell
