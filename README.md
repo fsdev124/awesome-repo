@@ -19,5 +19,8 @@ https://github.com/styled-components/awesome-styled-components
 ## Shell
 https://github.com/alebcay/awesome-shell
 
-## Deep Learning
+## AI
+#### Deep Learning
 https://github.com/ChristosChristofidis/awesome-deep-learning
+#### Machine Learning
+https://github.com/josephmisiti/awesome-machine-learning
