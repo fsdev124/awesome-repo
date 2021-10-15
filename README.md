@@ -1,29 +1,32 @@
-# This is a repo for all awesome code
+# Crypto Currency
 
 
-## React
-#### Redux : https://github.com/xgrommx/awesome-redux
-#### React : https://github.com/enaqx/awesome-react
-#### React Components : https://github.com/brillout/awesome-react-components
-#### React Native : https://github.com/jondot/awesome-react-native
+## Exchange
+https://github.com/gruelbox/orko
+https://github.com/forkdelta/classic-frontend
+https://github.com/suenot/profitmaker
+https://github.com/onitsoft/nexchange-open-client-react
+https://github.com/iostate/bitmex-clone
+https://github.com/Jacwutang/CryptoEngineX
+https://github.com/rorounifix/CryptoExchangePlatform
+https://github.com/majditaha/Cryptocurrency-Exchange
+https://github.com/crypt-z/exchange
+https://github.com/zaidhusseini/cryptocurrency-charting
+https://github.com/cryptocurpays/coin-cryptocurrency-exchange
+https://github.com/daywednes/exchange-1
+https://github.com/adamlawrencium/Ostia
+https://github.com/durmo11/cryptocurrency-exchange-listener
 
 
-## Vue
-https://github.com/vuejs/awesome-vue
+## Trading Library
+https://github.com/altangent/ccxws
+https://github.com/dukeblue2017/bitschange
+https://github.com/kedpak/cryptocurrency_exchange
 
-
-## Angular
-https://github.com/PatrickJS/awesome-angular
-
-
-## Styled Components
-https://github.com/styled-components/awesome-styled-components
-
-
-## Shell
-https://github.com/alebcay/awesome-shell
-
-
-## AI
-#### Deep Learning : https://github.com/ChristosChristofidis/awesome-deep-learning
-#### Machine Learning : https://github.com/josephmisiti/awesome-machine-learning
+## Crypto Watcher
+https://github.com/Tucsky/SignificantTrades
+https://github.com/huextrat/CryptoShadow
+https://github.com/amanvir/cryptowatch
+https://github.com/Bartozzz/crypto-news
+https://github.com/selva-oscura/cryptowatch-2.0
+https://github.com/cryptowatch/embed
