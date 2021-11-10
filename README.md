@@ -20,10 +20,16 @@ https://github.com/PatrickJS/awesome-angular
 https://github.com/styled-components/awesome-styled-components
 
 
+## WASM
+https://github.com/mbasso/awesome-wasm
+
 ## Haskell
 https://github.com/krispo/awesome-haskell
 #### Chart : https://github.com/timbod7/haskell-chart
 
+## Java
+https://github.com/akullpp/awesome-java
+https://github.com/pditommaso/awesome-java
 
 ## Shell
 https://github.com/alebcay/awesome-shell
